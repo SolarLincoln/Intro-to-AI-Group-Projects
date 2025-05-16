@@ -7,7 +7,7 @@ This repository contains group projects completed for Intro to AI @ Rutgers Univ
 * Intro_to_AI_Homework_3.pdf
 * OCR_FaceDetection Project
 ## OCR_FaceDetection Project
-* Has applications in home security systems, to detect the presence of people nearby or at the front door
+* Has applications in home security systems, to detect the unplanned presence of people indoors (B&E) or outdoors (trespassing etc.)
   - The Face Detection model can be loaded into an arduino/raspberry pi connected to a security camera.
   - This camera can then take pictures every 15-30 milliseconds, detect faces, and send a notification to the homeowner when a face is detected inside (when the homeowner is not home) or outside (like a Ring camera)
 
